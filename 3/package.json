@@ -1,0 +1,1 @@
+{"private":true,"scripts":{"build-liquid":"esbuild src/main.jsx --bundle --outfile=dist/liquid-ether.js --format=esm --minify"},"dependencies":{"esbuild":"^0.25.0","react":"^18.3.1","react-dom":"^18.3.1"}}
